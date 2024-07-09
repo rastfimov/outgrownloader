@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rastf\\source\\repos\\daemonOutgrown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C2AEF6-9510-45B1-8CCD-A257E5A9A67F}|daemonOutgrown\\daemonOutgrown.vcxproj|C:\\Users\\rastf\\source\\repos\\daemonOutgrown\\daemonOutgrown\\daemonOutgrown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13C2AEF6-9510-45B1-8CCD-A257E5A9A67F}|daemonOutgrown\\daemonOutgrown.vcxproj|solutionrelative:daemonOutgrown\\daemonOutgrown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "daemonOutgrown.cpp",
+              "DocumentMoniker": "C:\\Users\\rastf\\source\\repos\\daemonOutgrown\\daemonOutgrown\\daemonOutgrown.cpp",
+              "RelativeDocumentMoniker": "daemonOutgrown\\daemonOutgrown.cpp",
+              "ToolTip": "C:\\Users\\rastf\\source\\repos\\daemonOutgrown\\daemonOutgrown\\daemonOutgrown.cpp",
+              "RelativeToolTip": "daemonOutgrown\\daemonOutgrown.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T05:53:38.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

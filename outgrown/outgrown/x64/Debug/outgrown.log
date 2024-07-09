@@ -1,0 +1,5 @@
+﻿  outgrown.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  outgrown.vcxproj -> C:\Users\rastf\OneDrive\Документи\projects\outgrown\x64\Debug\outgrown.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

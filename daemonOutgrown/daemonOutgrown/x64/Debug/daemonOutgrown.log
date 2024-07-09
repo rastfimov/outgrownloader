@@ -1,0 +1,5 @@
+﻿  daemonOutgrown.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  daemonOutgrown.vcxproj -> C:\Users\rastf\source\repos\daemonOutgrown\x64\Debug\daemonOutgrown.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

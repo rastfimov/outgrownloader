@@ -1,0 +1,4 @@
+﻿// Идентификатор иконки
+#define IDI_APP_ICON 101
+
+IDI_APP_ICON ICON "http://outgrown.cc/api/content/outgrown.ico"

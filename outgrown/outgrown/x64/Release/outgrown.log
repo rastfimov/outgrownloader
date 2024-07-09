@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\rastf\OneDrive\Документи\projects\outgrown\outgrown\main.cpp(112,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating code
+  4 of 257 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  outgrown.vcxproj -> C:\Users\rastf\OneDrive\Документи\projects\outgrown\x64\Release\outgrown.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

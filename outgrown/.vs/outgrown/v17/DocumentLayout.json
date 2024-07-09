@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rastf\\Documents\\outgrown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|solutionrelative:outgrown\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\configurations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|solutionrelative:outgrown\\configurations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|solutionrelative:outgrown\\utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|solutionrelative:outgrown\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resources.rc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{10863A12-83CA-4B6C-B9FB-0D627636BB43}|outgrown\\outgrown.vcxproj|solutionrelative:outgrown\\resources.rc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ViewState": "AQIAAPABAAAAAAAAAADgvwQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-18T21:23:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "configurations.h",
+              "DocumentMoniker": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\configurations.h",
+              "RelativeDocumentMoniker": "outgrown\\configurations.h",
+              "ToolTip": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\configurations.h",
+              "RelativeToolTip": "outgrown\\configurations.h",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T18:06:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "utility.h",
+              "DocumentMoniker": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\utility.h",
+              "RelativeDocumentMoniker": "outgrown\\utility.h",
+              "ToolTip": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\utility.h",
+              "RelativeToolTip": "outgrown\\utility.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T18:05:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resources.rc",
+              "DocumentMoniker": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resources.rc",
+              "RelativeDocumentMoniker": "outgrown\\resources.rc",
+              "ToolTip": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resources.rc",
+              "RelativeToolTip": "outgrown\\resources.rc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-13T00:35:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resource.h",
+              "RelativeDocumentMoniker": "outgrown\\resource.h",
+              "ToolTip": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\resource.h",
+              "RelativeToolTip": "outgrown\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T00:34:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\main.cpp",
+              "RelativeDocumentMoniker": "outgrown\\main.cpp",
+              "ToolTip": "C:\\Users\\rastf\\Documents\\outgrown\\outgrown\\main.cpp",
+              "RelativeToolTip": "outgrown\\main.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T11:57:29.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
