@@ -47,7 +47,7 @@ void initDiscordRPC() {
     SetConsoleOutputCP(CP_UTF8);
     DiscordEventHandlers handlers;
     memset(&handlers, 0, sizeof(handlers));
-    Discord_Initialize("1237992011248701471", &handlers, 1, NULL);
+    Discord_Initialize("APPLICATION_ID_HERE", &handlers, 1, NULL);
 
     DiscordRichPresence discordPresence;
     memset(&discordPresence, 0, sizeof(discordPresence));
